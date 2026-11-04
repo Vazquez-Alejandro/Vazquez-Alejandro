@@ -1,6 +1,13 @@
+```
+╔══════════════════════════════╗
+║   V A Z Q U E Z - A L E J A N D R O   ║
+║        G A M E   D E V   //   F U L L - S T A C K  ║
+╚══════════════════════════════╝
+```
+
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Game%20Dev-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-BsAs%20Argentina-brightgreen" />
+<img src="https://img.shields.io/badge/FOCUS-GAME%20DEV-00ff00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIVES-BSAS%20ARGENTINA-00ff00?style=for-the-badge" />
 </p>
 <p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vazquez-Alejandro&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
