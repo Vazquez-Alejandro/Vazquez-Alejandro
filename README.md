@@ -1,17 +1,21 @@
+<p align="center">
+  <img src="assets/banner.gif" width="800" alt="Alejandro Vazquez - pixel banner" />
+</p>
+
 ```
-▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
-▌ 1UP 000420                  HI 999999  ▐
-▌                                        ▐
-▌   A L E J A N D R O   V A Z Q U E Z    ▐
-▌         GAME DEV _ FULL-STACK          ▐
-▌                                        ▐
-▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
+██████████████████████████████████████████
+█ 1UP 000420                  HI 999999  █
+█                                        █
+█   A L E J A N D R O   V A Z Q U E Z    █
+█         GAME DEV _ FULL-STACK          █
+█                                        █
+██████████████████████████████████████████
 ```
 
 <p align="center">
   <img src="https://img.shields.io/badge/MODE-FULL--STACK-ffd300?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/ZONE-BUENOS%20AIRES-ff004c?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/LIVES-3-00e5ff?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/LIVES-44-00e5ff?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 <p align="center">
