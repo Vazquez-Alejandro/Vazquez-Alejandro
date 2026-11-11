@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif?v=5" width="800" alt="Alejandro Vazquez - pixel banner" />
+  <img src="assets/banner.gif?v=6" width="800" alt="Alejandro Vazquez - pixel banner" />
 </p>
 
 ```
