@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vazquez-Alejandro&layout=compact&langs_count=8&theme=synthwave&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazquez-Alejandro&layout=compact&langs_count=8&theme=synthwave&hide_border=true"/>
 </p>
 
 ### 🎒 INVENTORY
